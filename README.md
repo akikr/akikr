@@ -1,8 +1,8 @@
 Hi 👋 My name is Ankit
 ======================
 
-Web Developer
--------------
+Software Developer
+------------------
 
 A Software Developer who loves problem-solving !!
 
