@@ -1,4 +1,4 @@
-Hi 👋 My name is Ankit
+Hi 👋 I'm Ankit
 ======================
 
 Software Developer
@@ -40,7 +40,7 @@ A Software Developer who loves problem-solving !!
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/akikr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/akikr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" /></a>
 
 
 ### Badges
@@ -49,8 +49,6 @@ A Software Developer who loves problem-solving !!
 
 <a href="https://github.com/akikr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akikr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/akikr"><img src="https://github-readme-stats.vercel.app/api?username=akikr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akikr's GitHub stats" /></a>
-
-<a href="http://www.github.com/akikr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akikr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/akikr"><img src="https://github-readme-stats.vercel.app/api?username=akikr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akikr's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akikr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/akikr"><img src="https://activity-graph.herokuapp.com/graph?username=akikr&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
