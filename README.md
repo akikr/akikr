@@ -66,7 +66,7 @@ Software Developer
 <a href="https://flink.apache.org" target="_blank" rel="noreferrer"><img src="https://flink.apache.org/img/flink-header-logo.svg" width="40" height="40" alt="ApacheFlink" /></a>
 </p>
 
-### Support Me
+### 
 <a href="https://www.buymeacoffee.com/akikr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" height="30"/></a>
 
 ###
