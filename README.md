@@ -4,19 +4,17 @@ Hi 👋 I'm Ankit
 Software Developer
 -------------------
 
-A passionate programmer who loves problem-solving
-
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [GitHubPages](http://akikr.github.io/)
 * ✉️   You can reach out to me through my [Socials](#socials) or drop a mail at [akikr@duck.com](mailto:akikr@duck.com)
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm passionate about Coding 👨🏻‍💻 Music 🎧 and Travelling 🏖️
+* ⚡  I'm passionate about Coding 👨🏻‍💻 Music 🎧 Movies 🎬 and Travelling 🏖️
 
 ## Socials
 <p align="left">
 <a href="https://www.github.com/akikr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="35" height="35" /></a>
-<a href="https://www.linkedin.com/in/akikr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35" height="35" /></a>
-<a href="https://www.twitter.com/akikr_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="35" height="35" /></a>
+<a href="https://www.twitter.com/akikr_" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="35" height="35" /></a>
+<a href="https://www.linkedin.com/in/akikr" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35" height="35" /></a>
 </p>
 
 ## Skills
@@ -60,10 +58,12 @@ A passionate programmer who loves problem-solving
 <a href="https://ubuntu.com/desktop/wsl" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" alt="WSL" /></a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="Ubuntu" /></a>
 <a href="https://www.eclipse.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40" alt="Eclipse" /></a>
+</p>
 
 ### Learning:
-<a href="https://k3s.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k3s/k3s-plain-wordmark.svg" width="50" height="50" alt="K3s" /></a>
-<a href="https://flink.apache.org" target="_blank" rel="noreferrer"><img src="https://flink.apache.org/img/flink-header-logo.svg" width="60" height="60" alt="ApacheFlink" /></a>
+<p align="left">
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="K8s" /></a>
+<a href="https://flink.apache.org" target="_blank" rel="noreferrer"><img src="https://flink.apache.org/img/flink-header-logo.svg" width="40" height="40" alt="ApacheFlink" /></a>
 </p>
 
 ### Support Me
