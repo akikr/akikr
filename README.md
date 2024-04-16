@@ -62,8 +62,9 @@ Software Developer
 
 ### Learning:
 <p align="left">
-<a href="https://openjdk.org/projects/jdk/21/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java21" /></a>
-<a href="https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.0-Release-Notes" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="ApacheFlink" /></a>
+<a href="https://openjdk.org/projects/jdk/21/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java-21.0" /></a>
+<a href="https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.0-Release-Notes" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="SpringBoot-3.0" /></a>
+<a href="https://www.fosslinux.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" width="40" height="40" alt="FOSS-Linux" /></a>
 </p>
 
 ### 
