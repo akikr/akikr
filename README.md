@@ -68,6 +68,8 @@ Software Developer
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="40" height="40" alt="Rust" /></a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="40" height="40" alt="GO" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" alt="Python" /></a>
+<a href="https://k3d.io/v5.7.4/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k3s/k3s-plain-wordmark.svg" width="40" height="40" alt="k8s" /></a>  
+<a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40" alt="k8s" /></a>
 </p>
 
 ### 
