@@ -26,8 +26,8 @@ Software Developer
 <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka" /></a>
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ" /></a>
 <a href="https://www.elastic.co/elastic-stack" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="ELK" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" width="40" height="40" alt="MariaDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="40" height="40" alt="GNUBash" /></a>
@@ -71,9 +71,6 @@ Software Developer
 <a href="https://k3d.io/v5.7.4/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k3s/k3s-plain-wordmark.svg" width="40" height="40" alt="k8s" /></a>  
 <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40" alt="k8s" /></a>
 </p>
-
-### 
-<a href="https://www.buymeacoffee.com/akikr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" height="30"/></a>
 
 ###
 <b>My GitHub Stats</b>
