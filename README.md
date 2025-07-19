@@ -5,8 +5,7 @@ Software Developer
 -------------------
 
 * 🌍  I'm based in India
-* 🖥️  I'm currently working at [Seamless Distribution Systems](https://seamless.se)
-* ✉️   You can reach out to me through my [Socials](#socials) or drop a mail at [akikr@duck.com](mailto:akikr@duck.com)
+* ✉️  You can reach out to me through my [Socials](#socials) or drop a mail at [akikr@duck.com](mailto:akikr@duck.com)
 * ⚡  I'm passionate about Coding 👨🏻‍💻 Music 🎧 Movies 🎬 and Travelling 🏖️
 * 🤝  I'm open to collaborating on interesting projects
 
