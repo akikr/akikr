@@ -65,7 +65,7 @@ Software Developer
 ### Learning:
 <p align="left">
 <a href="https://learn.java" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java-21.0" /></a>
-<a href="https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-4.0-Release-Notes" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="SpringBoot-3.0" /></a>
+<a href="https://github.com/spring-projects/spring-boot/wiki" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="SpringBoot-3.0" /></a>
 <a href="https://www.fosslinux.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="FOSS-Linux" /></a>
 <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="40" height="40" alt="GO" /></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" alt="Python" /></a>
